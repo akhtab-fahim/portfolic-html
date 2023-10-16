@@ -1,1 +1,1 @@
-# portfolic-html
+# resume-html
